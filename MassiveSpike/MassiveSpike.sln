@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MassiveSpike", "MassiveSpike.csproj", "{97C10461-9927-4AA1-B5B3-21C110758D10}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{97C10461-9927-4AA1-B5B3-21C110758D10}.Debug|x86.ActiveCfg = Debug|x86
+		{97C10461-9927-4AA1-B5B3-21C110758D10}.Debug|x86.Build.0 = Debug|x86
+		{97C10461-9927-4AA1-B5B3-21C110758D10}.Release|x86.ActiveCfg = Release|x86
+		{97C10461-9927-4AA1-B5B3-21C110758D10}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
