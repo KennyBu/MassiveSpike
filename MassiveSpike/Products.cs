@@ -4,8 +4,6 @@ namespace MassiveSpike
 {
     public class Products : DynamicModel
     {
-        //public Products() : base("MassiveSpikeDb", "Products", "ProductId") { }
-
         public Products() : base("MassiveSpike")
         {
             PrimaryKeyField = "ProductId";
